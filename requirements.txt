@@ -1,6 +1,4 @@
 streamlit
 datetime
 yfinance
-#pystan
 plotly
-#fbprophet
